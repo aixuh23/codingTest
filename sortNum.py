@@ -1,6 +1,3 @@
-from os import sep
-
-
 n = int(input())
 
 num = []
