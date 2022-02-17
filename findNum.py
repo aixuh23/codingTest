@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 
 
@@ -25,8 +24,7 @@ for M in Marray:
         print(1)
     else:
         print(0)
-=======
-import sys
+#####
 
 
 def countNum(Narray, m, start, end):
@@ -52,4 +50,3 @@ for M in Marray:
         print(1)
     else:
         print(0)
->>>>>>> 2ce264b9b83f5163c020009011bd654d32901386
